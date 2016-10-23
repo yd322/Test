@@ -1,34 +1,83 @@
 # Change Log for Project Tayona
 
-## [Version 0.1.3.1](https://github.com/HardTacos/ProjectTayona/pull/29) (2016-06-22)
+## [Version 0.1.4.0](https://github.com/HardTacos/ProjectTayona/pull/31) (2016-10-23)
 
 **Featured Commits:**
 
+- Merge remote-tracking branch 'upstream/master' into PlayerPrefab Merge [Commit] (https://github.com/HardTacos/ProjectTayona/commit/06000d5d844129b78d88b79b9aa8b9c09b3f090c) ([HardTacos](https://github.com/HardTacos))
+
 **Merged Pull Requests:**
+
+- Movement, Jumping, spawning on server [\#31](https://github.com/HardTacos/ProjectTayona/pull/31) ([HardTacos](https://github.com/HardTacos))
+
+
+## [Version 0.1.3.1](https://github.com/HardTacos/ProjectTayona/pull/30) (2016-10-22)
+
+**Featured Commits:**
+
+- Basic Structure for Changelog created with Release Versions
+ [Commit] (https://github.com/HardTacos/ProjectTayona/commit/7044d2b7ee1c1bdb1288e879f04427566b4ccfc8) ([yd322](https://github.com/yd322))
+
+**Merged Pull Requests:**
+
+- Updated Changelog.md file [\#30](https://github.com/HardTacos/ProjectTayona/pull/30) ([yd322](https://github.com/yd322))
 
 - Implemented Changelog.md file [\#29](https://github.com/HardTacos/ProjectTayona/pull/29) ([yd322](https://github.com/yd322))
 
 
-## [Version 0.1.3.0](https://github.com/HardTacos/ProjectTayona/pull/28) (2016-06-21)
+## [Version 0.1.3.0](https://github.com/HardTacos/ProjectTayona/pull/28) (2016-10-21)
 
 **Featured Commits:**
+
+- Login and Regestration's Player Prefab updated [Commit] (https://github.com/HardTacos/ProjectTayona/commit/4174b154fcaee2f2a594d3528fb9d696a188c6d6) ([HardTacos](https://github.com/HardTacos))
+
+- Login and Registration Feature updated [Commit] (https://github.com/HardTacos/ProjectTayona/commit/edc3ec643a8a8656af5d2f7b037a15cbaa57d9cc) ([HardTacos](https://github.com/HardTacos))
 
 **Merged Pull Requests:**
 
 - Fixed Player Prefabs Bug in Login and Registration [\#28](https://github.com/HardTacos/ProjectTayona/pull/28) ([HardTacos](https://github.com/HardTacos))
-- This commit implements Login and Registration [\#27](https://github.com/HardTacos/ProjectTayona/pull/27) ([HardTacos](https://github.com/etang93))
+
+- Login [\#27](https://github.com/HardTacos/ProjectTayona/pull/27) ([HardTacos](https://github.com/etang93))
+
+- Test merging [\#25](https://github.com/HardTacos/ProjectTayona/pull/25) ([HardTacos](https://github.com/etang93))
 
 
-## [Version 0.1.2.0](https://github.com/HardTacos/ProjectTayona/pull/24) (2016-06-21)
+## [Version 0.1.2.0](https://github.com/HardTacos/ProjectTayona/pull/24) (2016-10-21)
 
 **Featured Commits:**
+
+- Feature reimplemented movement to allow for proper pseudo 3d and colissions. Also added dash mechanic. [Commit] (https://github.com/HardTacos/ProjectTayona/commit/a8d07c702114694a372676b893e001b225ea1b9b) ([ajh334](https://github.com/ajh334))
+
+- Melee Attack and Ranged Attack for Desktop Players [Commit] (https://github.com/HardTacos/ProjectTayona/commit/c3dae546b166e22bb81b29f35c87da460c805ced) ([ajh334](https://github.com/ajh334))
 
 **Merged Pull Requests:**
 
 - Basic Shadow Movement Implemented [\#24](https://github.com/HardTacos/ProjectTayona/pull/24) ([SMC2293](https://github.com/SMC2293))
 
+- Features added for hit detection and HP for player and enemies [\#23](https://github.com/HardTacos/ProjectTayona/pull/23) ([ajh334 ](https://github.com/ajh334 ))
 
-## [Version 0.1.1.0](https://github.com/HardTacos/ProjectTayona/pull/12) (2016-06-16)
+- Matchmaking [\#22](https://github.com/HardTacos/ProjectTayona/pull/22) ([etang93 ](https://github.com/etang93 ))
+
+- User Interface[\#21](https://github.com/HardTacos/ProjectTayona/pull/21) ([HardTacos](https://github.com/HardTacos))
+
+- Refined Movement [\#20](https://github.com/HardTacos/ProjectTayona/pull/20) ([ajh334 ](https://github.com/ajh334 ))
+
+- Refined Movement [\#19](https://github.com/HardTacos/ProjectTayona/pull/19) ([ajh334 ](https://github.com/ajh334 ))
+
+- Seperated Logic from Server.JS [\#18](https://github.com/HardTacos/ProjectTayona/pull/18) ([etang93 ](https://github.com/etang93 ))
+
+- Refined Movement and Input Settings Updated [\#17](https://github.com/HardTacos/ProjectTayona/pull/17) ([ajh334 ](https://github.com/ajh334 ))
+
+- Added more files [\#16](https://github.com/HardTacos/ProjectTayona/pull/16) ([ajh334 ](https://github.com/ajh334 ))
+
+- Allow Proper Pseudo 3D [\#15](https://github.com/HardTacos/ProjectTayona/pull/15) ([ajh334 ](https://github.com/ajh334 ))
+
+- Added Player Attack [\#14](https://github.com/HardTacos/ProjectTayona/pull/14) ([ajh334 ](https://github.com/ajh334 ))
+
+- Basic User UI [\#13](https://github.com/HardTacos/ProjectTayona/pull/13) ([yd322 ](https://github.com/yd322 ))
+
+
+## [Version 0.1.1.0](https://github.com/HardTacos/ProjectTayona/pull/12) (2016-10-16)
 
 **Featured Commits:**
 
@@ -47,7 +96,7 @@
 - Changed the player controllers to allow for mobile player movement [\#9](https://github.com/HardTacos/ProjectTayona/pull/9) ([HardTacos](https://github.com/HardTacos))
 
 
-## [Version 0.1.0.0](https://github.com/HardTacos/ProjectTayona/pull/8) (2016-06-09)
+## [Version 0.1.0.0](https://github.com/HardTacos/ProjectTayona/pull/8) (2016-10-09)
 
 **Featured Commits:**
 
